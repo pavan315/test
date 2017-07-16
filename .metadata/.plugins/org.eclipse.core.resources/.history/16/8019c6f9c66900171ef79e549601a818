@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class apples {
+
+	public static void main(String[] args) {
+		//System.out.print("Hello Haneesh1");
+		Scanner text = new Scanner(System.in);
+		System.out.println(text.nextLine());
+		//System.out.println("text");
+	/*	double fnum, snum, answer;
+		System.out.println("Enter first num: ");
+		 fnum = text.nextDouble();
+		 System.out.println("Enter second num: ");
+		 snum = text.nextDouble();
+		 answer = fnum+snum;
+		 System.out.println(answer);*/
+}
+}
