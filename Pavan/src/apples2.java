@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class apples {
+public class apples2 {
 
 	public static void main(String[] args) {
-		Scanner text = new Scanner(System.in);
+		//Scanner text = new Scanner(System.in);
 		 int test= 40;
 		 
 		 if (test < 20){
